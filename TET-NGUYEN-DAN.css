@@ -164,8 +164,17 @@
     text-indent: 3em; 
     margin-bottom: 1em;
 }
+.content video {
+    width: 100%;       
+    height: auto;      
+    max-width: 100%;   
+    display: block;    
+    object-fit: contain;
+    margin: 0 auto;    
+}
 .line-divider {
     border: none;               
     border-top: 1px solid rgba(0,0,0,0.2); 
     margin: 20px 0;            
+
 }
