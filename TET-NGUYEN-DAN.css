@@ -128,6 +128,8 @@
     background: #F9E4B7;
     color: #7A1C1C;
     text-align: center; 
+    width: 60%;
+    margin: 0 auto;
 }
 
 .footer ol {
@@ -178,3 +180,4 @@
     margin: 20px 0;            
 
 }
+
