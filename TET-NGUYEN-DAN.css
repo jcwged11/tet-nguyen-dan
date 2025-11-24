@@ -136,7 +136,7 @@
     display: inline-block; 
     padding-left: 20px;    
     text-align: left;      
-    margin: 0 auto;        
+    margin: 0 auto;      
 }
 
 
@@ -166,6 +166,11 @@
     text-indent: 3em; 
     margin-bottom: 1em;
 }
+.line-divider {
+    border: none;               
+    border-top: 1px solid rgba(0,0,0,0.2); 
+    margin: 20px 0;            
+}
 .content video {
     width: 100%;       
     height: auto;      
@@ -174,10 +179,5 @@
     object-fit: contain;
     margin: 0 auto;    
 }
-.line-divider {
-    border: none;               
-    border-top: 1px solid rgba(0,0,0,0.2); 
-    margin: 20px 0;            
 
-}
 
